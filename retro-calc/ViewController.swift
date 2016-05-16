@@ -80,6 +80,11 @@ class ViewController: UIViewController {
             rightValStr = runningNumber
             runningNumber = ""
             
+            if runningNumber != "" {
+                rightValStr = runningNumber
+                runningNumber = ""
+            }
+            
             if currentOperation == Operation.Mutiply {
                 result = "\(Double(leftValStr)! * Double(rightValStr)!) "
             } else if currentOperation == Operation.Divide {

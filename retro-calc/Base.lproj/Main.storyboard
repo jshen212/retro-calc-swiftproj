@@ -251,8 +251,8 @@
                                     </stackView>
                                 </subviews>
                             </stackView>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" text="Label" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="mkM-xA-yRH">
-                                <rect key="frame" x="300" y="113" width="118" height="47"/>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" text="0" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="mkM-xA-yRH">
+                                <rect key="frame" x="180" y="113" width="240" height="47"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="118" id="Q4K-Xq-iqt"/>
                                     <constraint firstAttribute="height" constant="47" id="Tlm-JG-B6w"/>
